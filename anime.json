@@ -1,0 +1,24 @@
+{
+    "anime": [
+        {
+            "name" : "Learn New Thing",
+            "skill" : "Learning Everywhere",
+            "img" : "assets/img/1.png"
+        },
+        {
+            "name" : "Grit",
+            "skill" : "Do the best",
+            "img" : "assets/img/2.png"
+        },
+        {
+            "name" : "Determination",
+            "skill" : "Never stop",
+            "img" : "assets/img/3.png"
+        },
+        {
+            "name" : "Joyful",
+            "skill" : "Enjoy every-time",
+            "img" : "assets/img/4.png"
+        }
+    ]
+}
